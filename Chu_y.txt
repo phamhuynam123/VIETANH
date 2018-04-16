@@ -3,3 +3,4 @@
 Tiếp theo cần kết nối động cơ và kết hợp lưu trữ dữ liệu trong EEPROm
 ABC
 ABC
+123
